@@ -242,10 +242,10 @@ public class BitFieldMessage {
 
                 if (peerProcess.bitFieldMsg.isFileDownloadComplete()) {
                     //update file download details
-                    peerProcess.remotePeerInfo.get(peerID).setIsInterested(0);
-                    peerProcess.remotePeerInfo.get(peerID).setIsComplete(1);
-                    peerProcess.remotePeerInfo.get(peerID).setIsChoked(0);
-                    peerProcess.remotePeerInfo.get(peerID).updatePeerDetails(peerProcess.currentPeerID, 1);
+                    peerProcess.remotePeerInfoMap.get(peerID).setIsInterested(0);
+                    peerProcess.remotePeerInfoMap.get(peerID).setIsComplete(1);
+                    peerProcess.remotePeerInfoMap.get(peerID).setIsChoked(0);
+                    peerProcess.remotePeerInfoMap.get(peerID).updatePeerDetails(peerProcess.currentPeerID, 1);
                     logAndDisplay(peerProcess.currentPeerID + " has DOWNLOADED the complete file.");
                 }
             }

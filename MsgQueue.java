@@ -9,7 +9,7 @@ public class MsgQueue {
     /**
      * A queue that holds and manages the details of the messages received from a socket.
      */
-    private static Queue<MsgDetails> messagesQueue = new LinkedList<>();
+    public static Queue<MsgDetails> messagesQueue = new LinkedList<>();
 
     /**
      * Adds a message to the queue.

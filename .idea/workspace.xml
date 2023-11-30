@@ -5,41 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad00412d-00ba-4047-98c5-6b8e2c64947f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConfigSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoggingFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoggingHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MsgDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MsgQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PeerUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1002/thefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1003/thefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1004/thefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BitFieldMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BitFieldMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommonConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DownloadRateSorter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FilePiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/FilePiece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HandshakeMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/HandshakeMsg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LogHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaseMsg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/MsgConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MessageQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OptimisticallyUnchockedNeighbors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MsgQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/MsgQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PeerInfo.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/PeerInfo.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PeerMessageHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PeerMessageProcessingHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PeerProcessUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PeerServerHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrefNeighbors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RemotePeerDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartRemotePeers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PeerMessageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/PeerMessageProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/peerProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/peerProcess.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +32,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2XETMf0Aby8yudKTZ0kvkXzT8n5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,10 +44,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/crazy/Documents/cn/p2p-file-sharing-midpoint"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
